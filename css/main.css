@@ -860,9 +860,7 @@ section,
   font-weight: 700;
 }
 
-.about p {
-  font-size: 1.2rem;
-}
+
 
 .about img {
   height: 60%;
@@ -870,13 +868,11 @@ section,
 
 .about .content ul {
   list-style: none;
-  font-size: 1.2rem;
   padding: 0;
 }
 
 .about .content ul li {
   padding: 10px 0 0 0;
-  font-size: 1.2rem;
   display: flex;
 }
 
@@ -1042,9 +1038,6 @@ section,
   z-index: 1;
 }
 
-.call-to-action p{
-  font-size: 1.2rem;
-}
 
 .call-to-action:before {
   content: "";
@@ -1098,9 +1091,6 @@ section,
   text-align: center;
 }
 
-.portfolio p{
-  font-size: 1.2rem;
-}
 
 .portfolio ul{
   position: relative; 
@@ -1359,10 +1349,6 @@ section,
   background-color: var(--surface-color);
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
   padding: 30px;
-}
-
-.contact p{
-  font-size: 1.2rem;
 }
 
 @media (max-width: 575px) {
