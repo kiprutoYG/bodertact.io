@@ -1091,15 +1091,8 @@ section,
   text-align: center;
 }
 
-
-.portfolio ul{
-  position: relative; 
-  text-align: left;
-	display: inline-block; 
-	padding-left: 1em; 
-	left: 50%; 
-	transform: translateX(-380%);
-  font-size: 1.2rem;
+.portfolio .after{
+  padding: 5%;
 }
 
 .portfolio .portfolio-filters li {
