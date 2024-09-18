@@ -1091,8 +1091,8 @@ section,
   text-align: center;
 }
 
-.portfolio .after{
-  padding: 5%;
+.portfolio .after p{
+  padding: 5;
 }
 
 .portfolio .portfolio-filters li {
